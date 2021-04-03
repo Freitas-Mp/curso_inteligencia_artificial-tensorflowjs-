@@ -1,5 +1,5 @@
 
-<img src="tf.png" />
+<img src="tf.PNG" />
  <p>
     CURSO DE INTELIGÊNCIA ARTIFICIAL COM JAVASCRIPT
  </p>
