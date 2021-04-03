@@ -4,7 +4,7 @@
     CURSO DE INTELIGÊNCIA ARTIFICIAL COM JAVASCRIPT
  </p>
  <p>
-  Feitas com trez tecnologias
+  Feitas com trez tecnologias.
  </p>
  <ul>
    <li>JAVASCRIPT</li>
