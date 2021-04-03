@@ -39,6 +39,17 @@ function executar(){
   const tensor5= tf.tensor([2,4,2,3,3,5,6,7,])
   const as5D= tensor5.as5D(1,2,2,2,1)
 
+  const tensor6= tf.tensor([2.6,4.5,2.44,3.22,3.11,5.9,6.90,7.60])
+  const asType= tensor6.asType("int32")
+
+  text+="ASTYPE: \n\n"
+
+  text+="ANTES: \n\n"
+  text+=tensor6+"\n\n"
+
+  text+="DEPOIS: \n\n"
+  text+=asType+"\n\n"
+
   text+="as1D: \n\n"
 
   text+="ANTES: \n\n"
